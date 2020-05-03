@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Dashboard | JEPARADISE</title>
+	<title>Dashboard</title>
 	<?php $this->load->view("admin/header.php") ?>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
